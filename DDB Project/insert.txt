@@ -1,0 +1,2 @@
+INSERT INTO `mi` (`pid`, `jersey_no`, `name`, `status`, `price`) VALUES ('1', '12', 'Hardik Pandya', 'Retained', '100000'), ('2', '321', 'Krunal Pandya', 'Retained', '100000');
+INSERT INTO `mi` (`pid`, `jersey_no`, `name`, `status`, `price`) VALUES ('1', '12', 'Hardik Pandya', 'Retained', '100000'), ('2', '321', 'Krunal Pandya', 'Retained', '100000');
